@@ -1,0 +1,5 @@
+beanie==1.7.2
+fastapi==0.70.0
+python-dotenv==0.19.1
+uvicorn==0.15.0
+
